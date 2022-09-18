@@ -28,7 +28,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© CazperBotz-V2'
 global.watermark = wm
 global.wm2 = '⫹⫺ CazperBotz-V2'
-global.wm3 = '© CazperBotz-V2
+global.wm3 = '© CazperBotz-V2'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
