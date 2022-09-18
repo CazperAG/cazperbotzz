@@ -3,8 +3,8 @@ let _uptime = process.uptime() * 1000
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
    let ar = ['list', 'menu']
-   let ras = `Hai Kak  @${m.sender.split('@')[0]} 👋`
-    let sel = `*© Rtxzy*`
+   let ras = `Hai Bro  @${m.sender.split('@')[0]} 👋`
+    let sel = `*© CazperBotz-V2*`
     let rs = `Click Here`
 const sections = [ {
 	title: `☁️ Aktif ${uptime} / ⏲️ Jam ${time} WIB`,
