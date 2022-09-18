@@ -9,7 +9,7 @@ global.prems = ['628886529913']
 global.nameowner = '⫹⫺ Owner'
 global.numberowner = '628886529913'
 global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/BOTCAHX'
+global.github = 'https://github.com/CazperAG'
 global.dana = '628886529913'
 global.pulsa = '628886529913'
 global.gopay = ''
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nCasperAgario'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
