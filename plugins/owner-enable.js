@@ -114,7 +114,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
       chat.antiToxic = isEnable
       break
     case 'autolevelup':
-      isUser = true
+      isUser = false
       user.autolevelup = isEnable
       break
     case 'mycontact':
