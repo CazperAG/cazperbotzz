@@ -409,7 +409,7 @@ module.exports = {
                     name: this.getName(m.sender),
                     age: -1,
                     regTime: -1,
-                    autolevelup: false,
+                    autolevelup: true,
                     lastIstigfar: 0,
                 }
                 let chat = global.db.data.chats[m.chat]
